@@ -1,0 +1,5 @@
+data/*
+.DS_Store
+*.lock
+node_modules/*
+mongodata/*
